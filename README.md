@@ -1,9 +1,10 @@
 # 🧠 Diabetic Eye Retinopathy - Quantum Learning Approach
 
 This repository implements an improved InceptionV3-based deep learning model for Diabetic Eye Retinopathy classification, enhanced with advanced training techniques such as transfer learning, data augmentation, early stopping, learning rate scheduling, and fine-tuning.
-
+## 🔗 Models access
+- **Models** –  [Models access](https://drive.google.com/drive/folders/1DancdgGfjHD-Fg3RL0OekzJl7iDEUfq3?usp=sharing)
 The model saves metrics, confusion matrix, ROC curves, and reports for better evaluation.
-
+models access 
 ## 📌 Key Features
 Transfer Learning with InceptionV3 (ImageNet weights)
 Two-stage training (frozen + fine-tuning)
