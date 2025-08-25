@@ -39,10 +39,10 @@ Diabetic-Eye-Retinopathy-Quantum-Learning/
 - Scikit-learn
 
 ## 🚀 Getting Started
-### 2. Install dependencies
+### 1. Install dependencies
 - pip install -r requirements.txt
 
-### 3. Prepare dataset
+### 2. Prepare dataset
 - Place your balanced dataset in im1_balanced/train and im1_balanced/val with subfolders:
 
 - im1_balanced/
@@ -55,10 +55,10 @@ Diabetic-Eye-Retinopathy-Quantum-Learning/
 - ├── Normal/
 - └── Abnormal/
 
-### 4. Train the model
+### 3. Train the model
 - python main.py
 
-### 5. Results
+### 4. Results
 Saved in results_inception/
 Includes best model, training metrics, confusion matrix, ROC, and reports.
 
