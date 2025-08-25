@@ -16,9 +16,9 @@ Works on CPU/GPU
 ## 📂 Project Structure
 Diabetic-Eye-Retinopathy-Quantum-Learning/
 │
-├── im1_balanced/ # Dataset (train/val split)
-├── results_inception/ # Training results (saved models, plots, reports)
-│ ├── best_inception_cpu.keras
+- ├── im1_balanced/ # Dataset (train/val split)
+- ├── results_inception/ # Training results (saved models, plots, reports)
+- │ ├── best_inception_cpu.keras
 │ ├── inception_trained_cpu.keras
 │ ├── training_curves_accuracy.png
 │ ├── training_curves_loss.png
