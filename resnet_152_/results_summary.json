@@ -1,0 +1,13 @@
+{
+    "model_path": "model1_final.pth",
+    "final_train_acc": 0.7622228970543578,
+    "final_val_acc": 0.7730582524271844,
+    "final_train_loss": 0.7594528469748313,
+    "final_val_loss": 0.7298461786172923,
+    "total_epochs": 11,
+    "quantum_parameters": {
+        "n_qubits": 6,
+        "q_depth": 8,
+        "q_delta": 0.005
+    }
+}
