@@ -65,8 +65,18 @@ Includes best model, training metrics, confusion matrix, ROC, and reports.
 
 ## 📊 Evaluation
 - Accuracy & Loss curves
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81f31020-0520-4a7d-a721-c08d6a17c259" alt="Accuracy and Loss curves" />
+</p>
 - Confusion Matrix (Normal vs Abnormal)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77f07dcd-73dd-43ae-9413-b0bff3ac9938" alt="Accuracy and Loss curves" width="650"
+       height="450"/>
+</p>
 - ROC Curve with AUC score
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5fba3bb-1d5f-4ce0-b1ae-5b9a4c0896ac" alt="Accuracy and Loss curves" />
+</p>
 
 ⭐ If you found this project useful, please consider giving it a star!
 
